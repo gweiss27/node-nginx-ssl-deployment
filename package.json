@@ -1,0 +1,14 @@
+{
+  "name": "nginx-ssl-deployment",
+  "version": "1.0.0",
+  "description": "Full Node.js Deployment - NGINX, SSL with Lets Encrypt on DigitalOcean",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gregory Weiss",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
